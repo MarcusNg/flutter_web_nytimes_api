@@ -4,3 +4,8 @@
 Add your own [New York Times API Key](https://developer.nytimes.com/) to `services/api_service.dart`.
 
 `static const String API_KEY = '<YOUR_API_KEY>';`
+
+Screenshot
+=========
+
+[![Screenshot](screenshots/flutter_web_nyt_screenshot.png)](#screenshot)
