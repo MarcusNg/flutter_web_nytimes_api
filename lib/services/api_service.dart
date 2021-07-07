@@ -5,7 +5,7 @@ import 'package:flutter_web_nytimes_api/models/article_model.dart';
 class APIService {
 
   final String _baseUrl = 'api.nytimes.com';
-  static const String API_KEY = '<YOUR_API_KEY>';
+  static const String API_KEY = 'g6BhXp1q7o2gYMWj4q42bvAedXX6v4BU';
 
   Future<List<Article>> fetchArticlesBySection(String section) async {
     Map<String, String> parameters = {
